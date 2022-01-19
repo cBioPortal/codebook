@@ -1,5 +1,5 @@
 # cBioPortal Codebook 📊
-A community shared resource of Python and R Notebooks that utilize the cBioPortal REST API for various analysis recipes
+A community shared resource of Python and R Analysis Recipes that utilize the cBioPortal REST API
 
 ## Python
 See [intro.ipynb](./python/intro/intro.ipynb)
