@@ -1,4 +1,4 @@
-# cBioPortal Workbench 📊
+# cBioPortal Codebook 📊
 A community shared resource of Python and R Notebooks that utilize the cBioPortal REST API for various analysis recipes
 
 ## Python
