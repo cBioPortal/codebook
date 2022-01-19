@@ -1,4 +1,4 @@
-# cBioPortal Codebook 📊
+# cBioPortal Codebook 📖 📊 ✨
 A community shared resource of Python and R Analysis Recipes that utilize the cBioPortal REST API
 
 ## Python
